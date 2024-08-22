@@ -1,5 +1,6 @@
-![Universidad de Antioquia](https://github.com/freddyduitama/images/blob/master/logo.png?raw=true)
-
+<p align="center">
+  <img src="https://github.com/freddyduitama/images/blob/master/logo.png?raw=true" alt="Universidad de Antioquia" width="200"/>
+</p>
 
 # Monitorías Lógica y Representación 2 - 2024-2
 
