@@ -11,7 +11,6 @@ El objetivo de este repositorio es apoyar a los estudiantes en su comprensión y
 
 **Universidad de Antioquia**  
 _Facultad de Ingenieria_  
-2024-2
 <p align="left">
   <img src="https://github.com/freddyduitama/images/blob/master/logo.png?raw=true" alt="Universidad de Antioquia" width="100"/>
 </p>
