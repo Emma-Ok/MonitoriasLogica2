@@ -1,4 +1,4 @@
-# Monitorías Lógica y Representación 2 - 2024-2
+# Monitorías Lógica y Representación 2 
 
 **Repositorio Oficial** de todas las asesorías y recursos para el curso de **Lógica y Representación 2** que se dictarán durante los semestres que voy a ser monitor en la Universidad de Antioquia.
 
