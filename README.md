@@ -4,7 +4,7 @@
 
 ## 🗓️ Cronograma de Monitorías
 
-- L - V: Despues de las 8 PM
+- De lunes a jueves: Despues de las 8 PM
 
 **Universidad de Antioquia**  
 _Facultad de Ingenieria_  
