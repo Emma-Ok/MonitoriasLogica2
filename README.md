@@ -33,17 +33,4 @@ Todas las grabaciones estarán disponibles en nuestro canal de YouTube:
 ---
 
 > ¡Bienvenidos al semestre! Para dudas, sugerencias o recursos adicionales, revisa este repositorio periódicamente.
-# Monitorías Lógica y Representación 2 2025-2
 
-**Repositorio Oficial** de todas las asesorías y recursos para el curso de **Lógica y Representación 2** que se dictarán durante el semestre 2025-2.
-
-## 🗓️ Cronograma de Monitorías
-
-- Lunes & Viernes: Cualquier hora
-- Martes, Miercoles & Jueves: Por definir
-
-**Universidad de Antioquia**  
-_Facultad de Ingenieria_  
-<p align="left">
-  <img src="https://github.com/freddyduitama/images/blob/master/logo.png?raw=true" alt="Universidad de Antioquia" width="100"/>
-</p>
